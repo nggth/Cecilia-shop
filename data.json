@@ -1,0 +1,373 @@
+[
+    {
+        "images": [
+            {
+                "public_id": "look1/1_j5hr26",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856687/Look/look1/1_j5hr26.jpg"
+            },
+            {
+                "public_id": "look1/2_ie6mjq",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856687/Look/look1/2_ie6mjq.jpg"
+            },
+            {
+                "public_id": "look1/3_gbndma",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856688/Look/look1/3_gbndma.jpg"
+            },
+            {
+                "public_id": "look1/4_ryplfl",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856688/Look/look1/4_ryplfl.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 500,
+        "sold": 0,
+        "title": "READY FOR WORK",
+        "price": 5,
+        "description": "It's time to get back to work. Are you prepare anything",
+        "content": "Kick-off something amazing into your new version and be willing to be a professional every single morning",
+        "category": "5faa35a88fdff228384d51d8"
+    },
+    {
+        "images": [
+            {
+                "public_id": "look1/6_rlmlr5",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856682/Look/look1/6_rlmlr5.jpg"
+            },
+            {
+                "public_id": "look1/7_fjmfgb",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856683/Look/look1/7_fjmfgb.jpg"
+            },
+            {
+                "public_id": "look1/8_cwehpx",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856683/Look/look1/8_cwehpx.jpg"
+            },
+            {
+                "public_id": "look1/9_p5e9fe",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856684/Look/look1/9_p5e9fe.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 300,
+        "sold": 10,
+        "title": "DAZZLING CHIRISMAS",
+        "price": 5,
+        "description": "The bell rings to welcome the colorful Christmas season.",
+        "content": "𝑫𝒂𝒛𝒛𝒍𝒊𝒏𝒈 𝑪𝒉𝒓𝒊𝒔𝒕𝒎𝒂𝒔 is the Dottie collection cherished by the bright summer sun and the wild autumn wind. Perhaps because of that, the designs in 𝑪𝒉𝒓𝒊𝒔𝒕𝒎𝒂𝒔 will give you something new, fresh and liberal!",
+        "category": "5faa35b58fdff228384d51da"
+    },
+    {
+        "images": [
+            {
+                "public_id": "look1/10_i0wsap",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856684/Look/look1/10_i0wsap.jpg"
+            },
+            {
+                "public_id": "look1/11_fk4nmv",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856685/Look/look1/11_fk4nmv.jpg"
+            },
+            {
+                "public_id": "look1/12_xxkkkj",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856685/Look/look1/12_xxkkkj.jpg"
+            },
+            {
+                "public_id": "look1/14_vsxwxw",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856685/Look/look1/14_vsxwxw.jpg"
+            },
+            {
+                "public_id": "look1/15_t7mq8r",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626856685/Look/look1/15_t7mq8r.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 153,
+        "sold": 5,
+        "title": "WANNA BE YOURS",
+        "price": 395,
+        "description": "Just do all things with love. WANNA BE YOURS is like that!",
+        "content": "Aiming for a pure, mischievous image and a charming aftertaste with youthful design, high-quality 𝘗𝘰𝘱𝘭𝘪𝘯 (no wrinkles/shrink, soft) material.",
+        "category": "5faa35a88fdff228384d51d8"
+    },
+    {
+        "images": [
+            {
+                "public_id": "item/1_y5dv1r",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853100/Look/look2/1_y5dv1r.jpg"
+            },
+            {
+                "public_id": "item/2_tquhql",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853097/Look/look2/2_tquhql.jpg"
+            },
+            {
+                "public_id": "item/3_clg4ub",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853096/Look/look2/3_clg4ub.jpg"
+            },
+            {
+                "public_id": "item/4_ywuwdn",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853097/Look/look2/4_ywuwdn.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 300,
+        "sold": 10,
+        "title": "EXCLUSIVE IN DOTS",
+        "price": 5,
+        "description": "The sharp beauty has fully conveyed the spirit of the festive season.",
+        "content": "We bring you designs in signature winter materials such as velvet, tweed, woolen wool, glittering sequin details, and festive outfits.",
+        "category": "5faa35b58fdff228384d51da"
+    },
+    {
+        "images": [
+            {
+                "public_id": "item/5_zy0p7x",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853097/Look/look2/5_zy0p7x.jpg"
+            },
+            {
+                "public_id": "item/6_avpo2n",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853097/Look/look2/6_avpo2n.jpg"
+            },
+            {
+                "public_id": "item/7_bdfozt",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853097/Look/look2/7_bdfozt.jpg"
+            },
+            {
+                "public_id": "item/8_hpu2kx",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853097/Look/look2/8_hpu2kx.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 300,
+        "sold": 10,
+        "title": "ELEGANCE",
+        "price": 5,
+        "description": "A casual tee available in a range of styles they'll love.",
+        "content": "Quiet space with a horizontal striped T-shirt brings an interesting feeling of a summer day.",
+        "category": "5faa35b58fdff228384d51da"
+    },
+    {
+        "images": [
+            {
+                "public_id": "item/9_yyuecj",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853097/Look/look2/9_yyuecj.jpg"
+            },
+            {
+                "public_id": "item/10_cicba5",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853095/Look/look2/10_cicba5.jpg"
+            },
+            {
+                "public_id": "item/11_gqa3gl",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853095/Look/look2/11_gqa3gl.jpg"
+            },
+            {
+                "public_id": "item/12_dcedpc",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853095/Look/look2/12_dcedpc.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 300,
+        "sold": 10,
+        "title": "BASIC WORK",
+        "price": 5,
+        "description": "Work is the joy of life.",
+        "content": "We bring simple and sophisticated designs for girls who choose work first. White shirts will bring a new sense of excitement at work.",
+        "category": "5faa35b58fdff228384d51da"
+    },
+    {
+        "images": [
+            {
+                "public_id": "item/13_cwneoi",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853095/Look/look2/13_cwneoi.jpg"
+            },
+            {
+                "public_id": "item/14_nuvpft",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853095/Look/look2/14_nuvpft.jpg"
+            },
+            {
+                "public_id": "item/15_ycd82n",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853096/Look/look2/15_ycd82n.jpg"
+            },
+            {
+                "public_id": "item/16_fkbx5b",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853096/Look/look2/16_fkbx5b.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 300,
+        "sold": 10,
+        "title": "BASIC DAY",
+        "price": 5,
+        "description": "Work is the joy of life.",
+        "content": "We bring simple and sophisticated designs for girls who choose work first. White shirts will bring a new sense of excitement at work.",
+        "category": "5faa35b58fdff228384d51da"
+    },
+    {
+    "images": [
+        {
+            "public_id": "item/1_ektxid",
+            "url": "https://res.cloudinary.com/claireee/image/upload/v1626853111/Look/look3/1_ektxid.jpg"
+        },
+        {
+            "public_id": "item/2_bz9jxm",
+            "url": "https://res.cloudinary.com/claireee/image/upload/v1626853114/Look/look3/2_bz9jxm.jpg"
+        },
+        {
+            "public_id": "item/3_lzjmyz",
+            "url": "https://res.cloudinary.com/claireee/image/upload/v1626853115/Look/look3/3_lzjmyz.jpg"
+        },
+        {
+            "public_id": "item/4_ntdtz3",
+            "url": "https://res.cloudinary.com/claireee/image/upload/v1626853115/Look/look3/4_ntdtz3.jpg"
+        }
+    ],
+    "checked": false,
+    "inStock": 300,
+    "sold": 10,
+    "title": "ELEGANCE",
+    "price": 5,
+    "description": "A New Concept of Elegance, introduces you to a new concept of elegance.",
+    "content": "Drawing on a combination of winter-specific items such as the long Trench Coat, Blazer & Mini-skirts Checkered, along with materials, stripes and breaths of contemporary life, the new Collection completes the wardrobe. your autumn and winter clothes with different, impressive outfits.",
+    "category": "5faa35b58fdff228384d51da"
+    },
+    {
+        "images": [
+            {
+                "public_id": "item/5_svoop7",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853115/Look/look3/5_svoop7.jpg"
+            },
+            {
+                "public_id": "item/6_h6nqzt",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853116/Look/look3/6_h6nqzt.jpg"
+            },
+            {
+                "public_id": "item/7_rwaqhv",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853115/Look/look3/7_rwaqhv.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 300,
+        "sold": 10,
+        "title": "A GREEN DAY",
+        "price": 5,
+        "description": "A green cool day is a fresh day.",
+        "content": "A green day will be an inspiration for girls to go out for a walk. What are you waiting for without choosing an impressive plaid t-shirt for yourself?",
+        "category": "5faa35b58fdff228384d51da"
+    },
+    {
+        "images": [
+            {
+                "public_id": "item/8_qt7apd",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853116/Look/look3/8_qt7apd.jpg"
+            },
+            {
+                "public_id": "item/9_y9q35m",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853116/Look/look3/9_y9q35m.jpg"
+            },
+            {
+                "public_id": "item/10_orllo1",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853111/Look/look3/10_orllo1.jpg"
+            },
+            {
+                "public_id": "item/11_qtwcul",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853111/Look/look3/11_qtwcul.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 300,
+        "sold": 10,
+        "title": "MY MUSE",
+        "price": 5,
+        "description": "Bordered shirt",
+        "content": "A serious working day requires a serious energy? We bring a shirt that is soft, yet filled with the sweetness of a muse.",
+        "category": "5faa35b58fdff228384d51da"
+    },
+    {
+        "images": [
+            {
+                "public_id": "item/12_j4ijaw",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853111/Look/look3/12_j4ijaw.jpg"
+            },
+            {
+                "public_id": "item/13_whz8on",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853111/Look/look3/13_whz8on.jpg"
+            },
+            {
+                "public_id": "item/14_psroti",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853112/Look/look3/14_psroti.jpg"
+            },
+            {
+                "public_id": "item/15_l5e1nh",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853112/Look/look3/15_l5e1nh.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 300,
+        "sold": 10,
+        "title": "CHILLING SATURDAY",
+        "price": 5,
+        "description": "The cool & pleasant atmosphere has rushed everywhere.",
+        "content": "The cool & pleasant atmosphere has rushed everywhere! Have a great day - do what you love, relax & wear what you love, girls!",
+        "category": "5faa35b58fdff228384d51da"
+    },
+    {
+        "images": [
+            {
+                "public_id": "item/16_mkbdzk",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853112/Look/look3/16_mkbdzk.jpg"
+            },
+            {
+                "public_id": "item/17_edsftf",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853113/Look/look3/17_edsftf.jpg"
+            },
+            {
+                "public_id": "item/18_nkeuxx",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853112/Look/look3/18_nkeuxx.jpg"
+            },
+            {
+                "public_id": "item/19_hqe5y4",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853113/Look/look3/19_hqe5y4.jpg"
+            },
+            {
+                "public_id": "item/21_xv0tvq",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853114/Look/look3/21_xv0tvq.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 300,
+        "sold": 10,
+        "title": "EXCLUSIVE IN WHITE",
+        "price": 5,
+        "description": "EXCLUSIVE IN WHITE is Dottie's special campaign with Takashimaya to celebrate a pure white color!",
+        "content": "Because white always represents the purest and purest things. In the language of fashion, white represents absolute minimalism and elegance.",
+        "category": "5faa35b58fdff228384d51da"
+    },
+    {
+        "images": [
+            {
+                "public_id": "item/1_ektxid",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853111/Look/look3/1_ektxid.jpg"
+            },
+            {
+                "public_id": "item/2_bz9jxm",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853114/Look/look3/2_bz9jxm.jpg"
+            },
+            {
+                "public_id": "item/3_lzjmyz",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853115/Look/look3/3_lzjmyz.jpg"
+            },
+            {
+                "public_id": "item/4_ntdtz3",
+                "url": "https://res.cloudinary.com/claireee/image/upload/v1626853115/Look/look3/4_ntdtz3.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 300,
+        "sold": 10,
+        "title": "ELEGANCE",
+        "price": 5,
+        "description": "A New Concept of Elegance, introduces you to a new concept of elegance.",
+        "content": "Drawing on a combination of winter-specific items such as the long Trench Coat, Blazer & Mini-skirts Checkered, along with materials, stripes and breaths of contemporary life, the new Collection completes the wardrobe. your autumn and winter clothes with different, impressive outfits.",
+        "category": "5faa35b58fdff228384d51da"
+    } 
+
+]
+
+

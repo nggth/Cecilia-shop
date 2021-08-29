@@ -1,0 +1,18 @@
+.banner {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding: 30px 0;
+}
+.text-block {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 250px;
+    height: 100px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-top: 1rem;
+}
