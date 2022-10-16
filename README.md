@@ -13,3 +13,7 @@ npm run dev
 # or
 yarn dev
 ```
+
+
+Production
+https://cecilia-nextjs-shop.herokuapp.com/
